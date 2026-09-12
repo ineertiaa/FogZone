@@ -1,5 +1,7 @@
 # Fog Zone
 
+## [Click me to download!](https://github.com/ineertiaa/FogZone/releases/tag/1.0)
+
 # How to use
 The setup is easy, just follow these steps:
 
